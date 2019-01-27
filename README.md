@@ -1,2 +1,2 @@
-# ZEISS-1b-GOTO
+# iMount
 GOTO upgrade for Zeiss PaMount 1b
